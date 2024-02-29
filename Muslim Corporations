@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muslim Corporations</title>
+    <title>Muslim Corp</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -116,7 +116,7 @@
 
     <section class="image">
         <!-- Add your header or body image or video here -->
-        <img src="your-image-url.jpg" alt="Your Image">
+        <img src="https://dw.convertfiles.com/files/0754338001707485821/360_f_553908242_mmq7osdxbdwda1ume0tjojzarjwe0s0o.gif">
     </section>
 
     <section class="internal-links">
@@ -133,12 +133,12 @@
             <p><strong>Business Hours:</strong> Mon-Fri: 9 AM - 6 PM</p>
         </div>
         <div class="contact-info">
-            <p><strong>Contact Information:</strong> Phone: [Your Phone Number] | Email: [Your Support Email]</p>
+            <p><strong>Contact Information:</strong> Phone: 929-629-9132 | Email: cuslimscorporation@gmail.com</p>
         </div>
         <div class="social-media-icons">
             <!-- Add your social media icons/links here -->
-            <a href="#" target="_blank">Twitter</a> |
-            <a href="#" target="_blank">Facebook</a>
+            <a href="https://twitter.com/MuslimsCorp" target="_blank">Twitter</a> |
+            <a href="https://www.facebook.com/profile.php?id=61556430386635" target="_blank">Facebook</a>
         </div>
         <div class="team-careers">
             <a href="#">Our Team</a> | <a href="#">Careers</a>
